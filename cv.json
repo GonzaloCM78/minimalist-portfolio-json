@@ -6,7 +6,7 @@
     "email": "gonzalo.castillo@a.vedrunasevillasj.es",
     "phone": "+34 608752437",
     "url": "https://vedrunasevilla.org/",
-    "summary": "Student of DAM. Currently I am currently studying the DAM module at the Santa Joaquina de Vedruna institute. I'm from Ceuta, Spain, but now I am living in Seville. Previously, I have worked as an Oral Hygienist",
+    "summary": "Student of DAM. Currently I am studying the DAM module at the Santa Joaquina de Vedruna institute. I'm from Ceuta, Spain, but now I am living in Seville. Previously, I have worked as an Oral Hygienist.",
     "location": {
       "address": "Calle Guadarrama 16",
       "postalCode": "41005",
@@ -33,129 +33,79 @@
       "position": "Multi-platform application development",
       "startDate": "2023-09-12",
       "endDate": null,
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Asisa",
       "position": "Dental Hygienist",
       "startDate": "2023-03-15",
       "endDate": "2023-06-15",
-      
-    },
+      "highlights": []
+    }
   ],
   "references": [
     {
       "name": "Jose Carlos Moreno",
       "type": "Academic Reference",
       "position": "Teacher at IES Vedruna",
-      "contact": [
-        "Phone: +676121212",
-        "Email: josecarlos.moreno@vedruna.es"
-      ]
-    },
+      "contact": {
+        "phone": "+676121212",
+        "email": "josecarlos.moreno@vedruna.es"
+      }
+    }
+  ],
+  "education": [
     {
-  
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+      "institution": "Santa Joaquina de Vedruna Sevilla",
+      "url": "https://vedrunasevilla.org/",
+      "area": "Multiplatform Applications Developer",
+      "studyType": "Superior Degree",
+      "startDate": "2023-09-12",
+      "endDate": "2025-06-12",
+      "score": "6.0"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Medium",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
+      "keywords": ["Web development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Medium",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Web development", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "Java",
       "level": "Medium",
-      "keywords": [
-        "App, Java"
-      ]
+      "keywords": ["App", "Java"]
     },
     {
       "name": "C#",
       "level": "Medium",
-      "keywords": [
-        "App, Programation"
-      ]
+      "keywords": ["App", "Programming"]
     },
     {
       "name": "Python",
       "level": "Starter",
-      "keywords": [
-        "IA Development"
-      ]
+      "keywords": ["IA Development"]
     },
     {
       "name": "Unity",
       "level": "Medium",
-      "keywords": [
-        "Videogame, Unity"
-      ]
+      "keywords": ["Videogame", "Unity"]
     },
     {
       "name": "MySQL",
       "level": "Medium",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
+      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
     },
     {
       "name": "Android",
       "level": "Medium",
-      "keywords": [
-        "App, Android"
-      ]
-    },
+      "keywords": ["App", "Android"]
+    }
   ],
   "languages": [
     {
@@ -166,5 +116,6 @@
       "language": "English",
       "fluency": "Medium"
     }
-  ],
+  ]
 }
+
