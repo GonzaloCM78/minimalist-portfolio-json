@@ -1,92 +1,61 @@
 {
   "basics": {
-    "name": "Joaquin!",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Gonzalo!",
+    "label": "DAM Student",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "gonzalo.castillo@a.vedrunasevillasj.es",
+    "phone": "+34 608752437",
+    "url": "https://vedrunasevilla.org/",
+    "summary": "Student of DAM. Currently I am currently studying the DAM module at the Santa Joaquina de Vedruna institute. I'm from Ceuta, Spain, but now I am living in Seville. Previously, I have worked as an Oral Hygienist",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Calle Guadarrama 16",
+      "postalCode": "41005",
+      "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "gonzalocm",
+        "url": "https://www.linkedin.com/in/gonzalo-castillo-884bb21b7/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "GonzaloCM78",
+        "url": "https://github.com/GonzaloCM78"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Gonzalo",
+      "position": "Multi-platform application development",
+      "startDate": "2023-09-12",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Asisa",
+      "position": "Dental Hygienist",
+      "startDate": "2023-03-15",
+      "endDate": "2023-06-15",
+      
     },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
+      "name": "Jose Carlos Moreno",
       "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "position": "Teacher at IES Vedruna",
       "contact": [
-        "Phone: +34611223345",
-        "Email: VY5q8@example.com"
+        "Phone: +676121212",
+        "Email: josecarlos.moreno@vedruna.es"
       ]
     },
     {
-      "name": "Alejandro Téllez",
-      "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
-      "contact": [
-        "Phone: +34611223344",
-        "Email: Va5q8@example.com"
-      ]
-    }
   ],
   "volunteer": [{
     "organization": "Organization",
@@ -133,81 +102,60 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
+      "name": "Java",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "App, Java"
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Advanced",
+      "name": "C#",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "App, Programation"
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
+      "name": "Python",
+      "level": "Starter",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "IA Development"
       ]
     },
     {
-      "name": "Node",
-      "level": "Advanced",
+      "name": "Unity",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Videogame, Unity"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Medium",
       "keywords": [
         "Bases de Datos", "SQL", "Database", "Backend"
       ]
     },
     {
-      "name": "Git",
-      "level": "Advanced",
+      "name": "Android",
+      "level": "Medium",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "App, Android"
       ]
     },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    }
   ],
   "languages": [
     {
@@ -216,78 +164,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Medium"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "projects": [
-    {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
-      "highlights": [
-        "Choose your own adventure",
-        "In progress"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
-    }
-  ]
 }
