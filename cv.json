@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "gonzalo.castillo@a.vedrunasevillasj.es",
     "phone": "+34 608752437",
-    "url": "https://midu.dev",
+    "url": "https://vedrunasevilla.org/",
     "summary": "Student of DAM. Currently I am studying the DAM module at the Santa Joaquina de Vedruna institute. I'm from Ceuta, Spain, but now I am living in Seville. Previously, I have worked as an Oral Hygienist.",
     "location": {
       "address": "Calle Guadarrama 16",
@@ -27,7 +27,7 @@
       },
       {
         "network": "GitHub",
-        "username": "Mario",
+        "username": "Gonzalo",
         "url": "https://github.com/GonzaloCM78"
       }
     ]
@@ -36,8 +36,9 @@
     {
       "name": "Vedruna",
       "position": "Multiplatform application development",
-      "startDate": "September 2023",
-      "endDate": "May 2024",
+      "url": "https://atos.net/es/espana",
+      "startDate": "2023-09-12",
+      "endDate": "2025-06-12",
       "summary": "Work and training both blended and face-to-face with different  groups variable not only in their size but also in their functions.",
       "highlights": [
         "Started the company"
@@ -46,8 +47,10 @@
     {
       "name": "Asisa",
       "position": "Dental Hygienist",
+      "url": "https://twitch.tv/midudev",
       "startDate": "2023-03-15",
       "endDate": "2023-06-15",
+      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
       "highlights": [
         "Started the company"
       ]
@@ -101,9 +104,12 @@
     "url": "https://vedrunasevilla.org/",
     "area": "Multiplatform Applications Developer",
     "studyType": "Superior Degree",
-    "startDate": "20w3-09-12",
+    "startDate": "2023-09-12",
     "endDate": "2025-06-12",
     "score": "6.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
   }],
   "awards": [{
     "title": "Award",
@@ -143,33 +149,33 @@
       "name": "Java",
       "level": "Medium",
       "keywords": [
-        "App", "Java"
+        "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "C#",
-      "level": "mEDIUM",
+      "level": "Medium",
       "keywords": [
-        "App", "Java"
+        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
       "name": "Python",
       "level": "Starter",
       "keywords": [
-        "IA Development"
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Unity",
       "level": "Medium",
       "keywords": [
-        "Videogame", "Unity"
+        "Web development", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Medium",
+      "level": "Advanced",
       "keywords": [
         "Bases de Datos", "SQL", "Database", "Backend"
       ]
@@ -178,7 +184,7 @@
       "name": "Android",
       "level": "Medium",
       "keywords": [
-        "App", "Android", "Source code"
+        "Version control", "Colaboración", "Source code"
       ]
     },
     {
