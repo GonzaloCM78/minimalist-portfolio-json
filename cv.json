@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Mario",
-    "label": "Full-Stack developer student",
+    "name": "Gonzalo",
+    "label": "DAM Student",
     "image": "/me.webp",
-    "email": "mario.garcia@a.vedrunasevillasj.es",
-    "phone": "+34 722681154",
+    "email": "gonzalo.castillo@a.vedrunasevillasj.es",
+    "phone": "+34 608752437",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "Student of DAM. Currently I am studying the DAM module at the Santa Joaquina de Vedruna institute. I'm from Ceuta, Spain, but now I am living in Seville. Previously, I have worked as an Oral Hygienist.",
     "location": {
-      "address": "Avenida de las Ciencias, nº 15, 4ºB",
-      "postalCode": "41020",
+      "address": "Calle Guadarrama 16",
+      "postalCode": "41005",
       "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
@@ -17,27 +17,26 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Mario",
-        "url": "https://www.linkedin.com/in/mario-garc%C3%ADa-mata-6493b832a/"
+        "username": "Gonzalo",
+        "url": "https://www.linkedin.com/in/gonzalo-castillo-884bb21b7/"
       },
       {
         "network": "X",
-        "username": "Mario",
+        "username": "Gonzalo",
         "url": "https://x.com/"
       },
       {
         "network": "GitHub",
         "username": "Mario",
-        "url": "https://github.com/Marval-0509"
+        "url": "https://github.com/GonzaloCM78"
       }
     ]
   },
   "work": [
     {
-      "name": "Atos-Eviden",
-      "position": "Internship",
-      "url": "https://atos.net/es/espana",
-      "startDate": "April 2024",
+      "name": "Vedruna",
+      "position": "Multiplatform application development",
+      "startDate": "September 2023",
       "endDate": "May 2024",
       "summary": "Work and training both blended and face-to-face with different  groups variable not only in their size but also in their functions.",
       "highlights": [
@@ -45,12 +44,10 @@
       ]
     },
     {
-      "name": "Papa-Jons",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Asisa",
+      "position": "Dental Hygienist",
+      "startDate": "2023-03-15",
+      "endDate": "2023-06-15",
       "highlights": [
         "Started the company"
       ]
@@ -100,16 +97,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "institution": "Santa Joaquina de Vedruna Sevilla",
+    "url": "https://vedrunasevilla.org/",
+    "area": "Multiplatform Applications Developer",
+    "studyType": "Superior Degree",
+    "startDate": "20w3-09-12",
+    "endDate": "2025-06-12",
+    "score": "6.0",
   }],
   "awards": [{
     "title": "Award",
@@ -133,63 +127,63 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
+      "name": "Java",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "App", "Java"
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Advanced",
+      "name": "C#",
+      "level": "mEDIUM",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "App", "Java"
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
+      "name": "Python",
+      "level": "Starter",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "IA Development"
       ]
     },
     {
-      "name": "Node",
-      "level": "Advanced",
+      "name": "Unity",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Videogame", "Unity"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Medium",
       "keywords": [
         "Bases de Datos", "SQL", "Database", "Backend"
       ]
     },
     {
-      "name": "Git",
-      "level": "Advanced",
+      "name": "Android",
+      "level": "Medium",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "App", "Android", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
+      "level": "Starter",
       "keywords": [
         "Version control", "Collaboration", "Source code", "Git"
       ]
@@ -216,7 +210,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Medium"
     }
   ],
   "interests": [{
