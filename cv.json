@@ -56,13 +56,13 @@
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     }
   ],
@@ -89,14 +89,14 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "…",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "'"
     ]
   }],
   "education": [{
@@ -112,23 +112,23 @@
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": "."
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "",
+    "date": "",
+    "issuer": "",
+    "url": ""
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": "…"
   }],
   "skills": [
     {
@@ -195,17 +195,17 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        ""
       ]
     },
     {
-      "name": "React",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        ""
       ]
     }
   ],
@@ -228,66 +228,66 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "",
+        ""
       ],
-      "url": "https://mars.codes"
+      "url": ""
     },
     {
-      "name": "AdventJS",
+      "name": "",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "",
+        "",
+        ""
       ],
-      "url": "https://advent.js/dev"
+      "url": ""
     },
     {
-      "name": "Codember",
+      "name": "",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "",
+        ""
       ],
-      "url": "https://codember.dev"
+      "url": ""
     },
     {
-      "name": "codi.link",
+      "name": "",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "",
+        ""
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": "",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "",
+        ""
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": "",
+      "description": "",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "",
+        ""
       ],
-      "url": "https://miduconf.com"
+      "url": ""
     }
   ]
 }
